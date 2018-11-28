@@ -23,3 +23,4 @@ and that there are no desks right up against the wall.
 
 When Karel is finished, all the desks in the room should have a valentine!
 */
+import "turns";
